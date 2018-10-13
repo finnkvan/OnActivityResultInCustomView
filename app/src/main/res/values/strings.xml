@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Blogging</string>
+    <string name="file_path">No selected file</string>
+    <string name="pick_file">Select a file</string>
+</resources>
